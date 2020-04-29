@@ -1,0 +1,25 @@
+{
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "name": "node_mysql",
+  "version": "1.0.0",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jochri3/node_mysql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jochri3/node_mysql/issues"
+  },
+  "homepage": "https://github.com/jochri3/node_mysql#readme",
+  "description": ""
+}
